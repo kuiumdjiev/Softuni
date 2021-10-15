@@ -1,0 +1,13 @@
+E:\Проект\C# OOP Exam - 10 April 2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+E:\Проект\C# OOP Exam - 10 April 2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+E:\Проект\C# OOP Exam - 10 April 2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+E:\Проект\C# OOP Exam - 10 April 2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+E:\Проект\C# OOP Exam - 10 April 2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+E:\Проект\C# OOP Exam - 10 April 2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+E:\Проект\C# OOP Exam - 10 April 2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csprojAssemblyReference.cache
+E:\Проект\C# OOP Exam - 10 April 2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+E:\Проект\C# OOP Exam - 10 April 2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+E:\Проект\C# OOP Exam - 10 April 2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+E:\Проект\C# OOP Exam - 10 April 2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+E:\Проект\C# OOP Exam - 10 April 2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+E:\Проект\C# OOP Exam - 10 April 2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache
