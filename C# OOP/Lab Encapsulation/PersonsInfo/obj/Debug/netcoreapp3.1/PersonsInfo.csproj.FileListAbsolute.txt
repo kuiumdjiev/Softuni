@@ -1,0 +1,13 @@
+C:\Users\Stefan\source\repos\Lab Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.exe
+C:\Users\Stefan\source\repos\Lab Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.deps.json
+C:\Users\Stefan\source\repos\Lab Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.json
+C:\Users\Stefan\source\repos\Lab Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.dev.json
+C:\Users\Stefan\source\repos\Lab Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.dll
+C:\Users\Stefan\source\repos\Lab Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.pdb
+C:\Users\Stefan\source\repos\Lab Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Lab Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\Lab Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\Lab Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Lab Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.dll
+C:\Users\Stefan\source\repos\Lab Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.pdb
+C:\Users\Stefan\source\repos\Lab Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.genruntimeconfig.cache
