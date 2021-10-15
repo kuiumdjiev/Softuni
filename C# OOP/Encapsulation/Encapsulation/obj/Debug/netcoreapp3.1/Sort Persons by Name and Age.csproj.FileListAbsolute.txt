@@ -1,0 +1,12 @@
+C:\Users\Stefan\source\repos\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Sort Persons by Name and Age.exe
+C:\Users\Stefan\source\repos\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Sort Persons by Name and Age.deps.json
+C:\Users\Stefan\source\repos\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Sort Persons by Name and Age.runtimeconfig.json
+C:\Users\Stefan\source\repos\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Sort Persons by Name and Age.runtimeconfig.dev.json
+C:\Users\Stefan\source\repos\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Sort Persons by Name and Age.dll
+C:\Users\Stefan\source\repos\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Sort Persons by Name and Age.pdb
+C:\Users\Stefan\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Sort Persons by Name and Age.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Sort Persons by Name and Age.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Sort Persons by Name and Age.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Sort Persons by Name and Age.dll
+C:\Users\Stefan\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Sort Persons by Name and Age.pdb
+C:\Users\Stefan\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Sort Persons by Name and Age.genruntimeconfig.cache
