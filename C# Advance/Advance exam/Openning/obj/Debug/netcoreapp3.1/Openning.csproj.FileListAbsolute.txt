@@ -1,0 +1,13 @@
+C:\Users\Stefan\source\repos\Advance exam\Openning\bin\Debug\netcoreapp3.1\Openning.exe
+C:\Users\Stefan\source\repos\Advance exam\Openning\bin\Debug\netcoreapp3.1\Openning.deps.json
+C:\Users\Stefan\source\repos\Advance exam\Openning\bin\Debug\netcoreapp3.1\Openning.runtimeconfig.json
+C:\Users\Stefan\source\repos\Advance exam\Openning\bin\Debug\netcoreapp3.1\Openning.runtimeconfig.dev.json
+C:\Users\Stefan\source\repos\Advance exam\Openning\bin\Debug\netcoreapp3.1\Openning.dll
+C:\Users\Stefan\source\repos\Advance exam\Openning\bin\Debug\netcoreapp3.1\Openning.pdb
+C:\Users\Stefan\source\repos\Advance exam\Openning\obj\Debug\netcoreapp3.1\Openning.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Advance exam\Openning\obj\Debug\netcoreapp3.1\Openning.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\Advance exam\Openning\obj\Debug\netcoreapp3.1\Openning.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\Advance exam\Openning\obj\Debug\netcoreapp3.1\Openning.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Advance exam\Openning\obj\Debug\netcoreapp3.1\Openning.dll
+C:\Users\Stefan\source\repos\Advance exam\Openning\obj\Debug\netcoreapp3.1\Openning.pdb
+C:\Users\Stefan\source\repos\Advance exam\Openning\obj\Debug\netcoreapp3.1\Openning.genruntimeconfig.cache
