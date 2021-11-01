@@ -1,0 +1,13 @@
+F:\Проект\Entity Framework Core\Exercise XML Processing\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+F:\Проект\Entity Framework Core\Exercise XML Processing\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+F:\Проект\Entity Framework Core\Exercise XML Processing\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+F:\Проект\Entity Framework Core\Exercise XML Processing\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+F:\Проект\Entity Framework Core\Exercise XML Processing\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+F:\Проект\Entity Framework Core\Exercise XML Processing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+F:\Проект\Entity Framework Core\Exercise XML Processing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+F:\Проект\Entity Framework Core\Exercise XML Processing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+F:\Проект\Entity Framework Core\Exercise XML Processing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+F:\Проект\Entity Framework Core\Exercise XML Processing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+F:\Проект\Entity Framework Core\Exercise XML Processing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+F:\Проект\Entity Framework Core\Exercise XML Processing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache
+F:\Проект\Entity Framework Core\Exercise XML Processing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.AssemblyReference.cache
