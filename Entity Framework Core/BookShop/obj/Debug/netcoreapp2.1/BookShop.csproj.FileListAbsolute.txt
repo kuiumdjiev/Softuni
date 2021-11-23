@@ -1,0 +1,13 @@
+F:\Проект\Entity Framework Core\C# DB Advanced Exam - 13 Dec 2019\BookShop\bin\Debug\netcoreapp2.1\BookShop.deps.json
+F:\Проект\Entity Framework Core\C# DB Advanced Exam - 13 Dec 2019\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.json
+F:\Проект\Entity Framework Core\C# DB Advanced Exam - 13 Dec 2019\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.dev.json
+F:\Проект\Entity Framework Core\C# DB Advanced Exam - 13 Dec 2019\BookShop\bin\Debug\netcoreapp2.1\BookShop.dll
+F:\Проект\Entity Framework Core\C# DB Advanced Exam - 13 Dec 2019\BookShop\bin\Debug\netcoreapp2.1\BookShop.pdb
+F:\Проект\Entity Framework Core\C# DB Advanced Exam - 13 Dec 2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.AssemblyReference.cache
+F:\Проект\Entity Framework Core\C# DB Advanced Exam - 13 Dec 2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+F:\Проект\Entity Framework Core\C# DB Advanced Exam - 13 Dec 2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfoInputs.cache
+F:\Проект\Entity Framework Core\C# DB Advanced Exam - 13 Dec 2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfo.cs
+F:\Проект\Entity Framework Core\C# DB Advanced Exam - 13 Dec 2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.CoreCompileInputs.cache
+F:\Проект\Entity Framework Core\C# DB Advanced Exam - 13 Dec 2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.dll
+F:\Проект\Entity Framework Core\C# DB Advanced Exam - 13 Dec 2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.pdb
+F:\Проект\Entity Framework Core\C# DB Advanced Exam - 13 Dec 2019\BookShop\obj\Debug\netcoreapp2.1\BookShop.genruntimeconfig.cache
