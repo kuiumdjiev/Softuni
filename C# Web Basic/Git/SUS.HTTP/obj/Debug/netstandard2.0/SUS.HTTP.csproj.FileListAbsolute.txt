@@ -1,0 +1,10 @@
+F:\Проект\C# web basic\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.deps.json
+F:\Проект\C# web basic\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.dll
+F:\Проект\C# web basic\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+F:\Проект\C# web basic\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csproj.AssemblyReference.cache
+F:\Проект\C# web basic\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.GeneratedMSBuildEditorConfig.editorconfig
+F:\Проект\C# web basic\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfoInputs.cache
+F:\Проект\C# web basic\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfo.cs
+F:\Проект\C# web basic\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csproj.CoreCompileInputs.cache
+F:\Проект\C# web basic\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.dll
+F:\Проект\C# web basic\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.pdb
