@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zb6Bbx+01P1Q3F2HrolVwuVgcjmcDCCvT9mI0tvi9avSmeQW4TU4+oOaZBKJ4ne65oo32PqkQVi0N6MoGGczPQ==",
+  "success": true,
+  "projectFilePath": "F:\\Проект\\C# web basic\\C# Web Development Basics Retake Exam - 23 December 2020\\SUS.HTTP\\SUS.HTTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

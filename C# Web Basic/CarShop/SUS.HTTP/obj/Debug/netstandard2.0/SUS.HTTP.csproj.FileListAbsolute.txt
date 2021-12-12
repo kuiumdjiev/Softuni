@@ -1,0 +1,19 @@
+C:\Users\ROG STRIX\Desktop\New folder\C#Web_Retake_Skeleton\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.deps.json
+C:\Users\ROG STRIX\Desktop\New folder\C#Web_Retake_Skeleton\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\ROG STRIX\Desktop\New folder\C#Web_Retake_Skeleton\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+C:\Users\ROG STRIX\Desktop\New folder\C#Web_Retake_Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csprojAssemblyReference.cache
+C:\Users\ROG STRIX\Desktop\New folder\C#Web_Retake_Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfoInputs.cache
+C:\Users\ROG STRIX\Desktop\New folder\C#Web_Retake_Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfo.cs
+C:\Users\ROG STRIX\Desktop\New folder\C#Web_Retake_Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csproj.CoreCompileInputs.cache
+C:\Users\ROG STRIX\Desktop\New folder\C#Web_Retake_Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\ROG STRIX\Desktop\New folder\C#Web_Retake_Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.pdb
+F:\Проект\C# web basic\C# Web Development Basics Retake Exam - 23 December 2020\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.deps.json
+F:\Проект\C# web basic\C# Web Development Basics Retake Exam - 23 December 2020\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.dll
+F:\Проект\C# web basic\C# Web Development Basics Retake Exam - 23 December 2020\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+F:\Проект\C# web basic\C# Web Development Basics Retake Exam - 23 December 2020\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csproj.AssemblyReference.cache
+F:\Проект\C# web basic\C# Web Development Basics Retake Exam - 23 December 2020\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.GeneratedMSBuildEditorConfig.editorconfig
+F:\Проект\C# web basic\C# Web Development Basics Retake Exam - 23 December 2020\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfoInputs.cache
+F:\Проект\C# web basic\C# Web Development Basics Retake Exam - 23 December 2020\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfo.cs
+F:\Проект\C# web basic\C# Web Development Basics Retake Exam - 23 December 2020\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csproj.CoreCompileInputs.cache
+F:\Проект\C# web basic\C# Web Development Basics Retake Exam - 23 December 2020\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.dll
+F:\Проект\C# web basic\C# Web Development Basics Retake Exam - 23 December 2020\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.pdb
