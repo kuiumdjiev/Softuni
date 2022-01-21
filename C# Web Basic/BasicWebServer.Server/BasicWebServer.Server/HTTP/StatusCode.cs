@@ -8,6 +8,10 @@ namespace BasicWebServer.Server.HTTP
 {
     public enum StatusCode
     {
-        OK=200
+        OK=200,
+        NotFound=404,
+        Found=302,
+        BadRequest=400,
+        Unauthorized=403
     }
 }

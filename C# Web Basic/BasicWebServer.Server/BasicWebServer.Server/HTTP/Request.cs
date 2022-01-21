@@ -16,18 +16,26 @@ public class Request
     public static Request Parse(string request)
     {
         var lines = request.Split("\r\n");
-        var start = lines.First().Split(" ");
-        var method = ParseMethod(start[0]);
-        var url = start[1];
-        var headers = ParseHeader(start.Skip(1));
-        var bodyLines = start.Skip(2 + headers.Count).ToArray();
+
+        var startLine = lines.First().Split(" ");
+
+        var method = ParseMethod(startLine[0]);
+
+        var url = startLine[1];
+
+        var headers = ParseHeader(lines.Skip(1));
+
+        var bodyLines = lines.Skip(headers.Count + 2).ToArray();
+
         var body = string.Join("\r\n", bodyLines);
-        return new Request()
+
+
+        return new Request
         {
             Method = method,
             Url = url,
             Headers = headers,
-            Body = body
+            Body = body,
         };
     }
 

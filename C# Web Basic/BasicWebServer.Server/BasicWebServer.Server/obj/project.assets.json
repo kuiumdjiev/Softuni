@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\BasicWebServer.Server\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CortCart\\Softuni\\C# Web Basic\\BasicWebServer.Server\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
       "projectName": "BasicWebServer.Server",
-      "projectPath": "C:\\Users\\User\\source\\repos\\BasicWebServer.Server\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\CortCart\\Softuni\\C# Web Basic\\BasicWebServer.Server\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\BasicWebServer.Server\\BasicWebServer.Server\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\CortCart\\Softuni\\C# Web Basic\\BasicWebServer.Server\\BasicWebServer.Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

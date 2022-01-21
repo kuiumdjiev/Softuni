@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "STwKMjTatMO2IT7pIpm17RZ9TKvFypz+bqt0Ya22EWqxELhrZnZv0KjaRYp4Zel0H5VbUB1jyzHiu693Swz7DQ==",
+  "dgSpecHash": "kg+jUxXQKAjXziIDsrTs6rieujzEZsOfad42QHgFagjU2DHbK6L8LqH5CkGGhwEhMaIvz+Mp6Q/GFCf3r7ebug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\BasicWebServer.Server\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\CortCart\\Softuni\\C# Web Basic\\BasicWebServer.Server\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

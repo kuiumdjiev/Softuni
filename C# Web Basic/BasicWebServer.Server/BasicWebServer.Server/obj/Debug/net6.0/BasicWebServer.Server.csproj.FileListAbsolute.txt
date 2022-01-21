@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\CortCart\Softuni\C# Web Basic\BasicWebServer.Server\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.deps.json
+C:\Users\User\source\repos\CortCart\Softuni\C# Web Basic\BasicWebServer.Server\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.dll
+C:\Users\User\source\repos\CortCart\Softuni\C# Web Basic\BasicWebServer.Server\BasicWebServer.Server\bin\Debug\net6.0\ref\BasicWebServer.Server.dll
+C:\Users\User\source\repos\CortCart\Softuni\C# Web Basic\BasicWebServer.Server\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.pdb
+C:\Users\User\source\repos\CortCart\Softuni\C# Web Basic\BasicWebServer.Server\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CortCart\Softuni\C# Web Basic\BasicWebServer.Server\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CortCart\Softuni\C# Web Basic\BasicWebServer.Server\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CortCart\Softuni\C# Web Basic\BasicWebServer.Server\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfo.cs
+C:\Users\User\source\repos\CortCart\Softuni\C# Web Basic\BasicWebServer.Server\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CortCart\Softuni\C# Web Basic\BasicWebServer.Server\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.dll
+C:\Users\User\source\repos\CortCart\Softuni\C# Web Basic\BasicWebServer.Server\BasicWebServer.Server\obj\Debug\net6.0\ref\BasicWebServer.Server.dll
+C:\Users\User\source\repos\CortCart\Softuni\C# Web Basic\BasicWebServer.Server\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.pdb
