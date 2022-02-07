@@ -7,56 +7,43 @@ namespace BasicWebServer.Server.Routing;
 
 public class RoutingTable:IRoutingTable
 {
-    private readonly Dictionary<Method, Dictionary<string, Response>> routes;
+    private readonly Dictionary<Method, Dictionary<string, Func<Request, Response>>> routes;
 
-    public RoutingTable()
+    public RoutingTable() => this.routes = new()
     {
-        this.routes = new()
-        {
-            [Method.Get] = new Dictionary<string, Response>(),
-            [Method.Post] = new Dictionary<string, Response>(),
-            [Method.Put] = new Dictionary<string, Response>(),
-            [Method.Delete] = new Dictionary<string, Response>()
-        };
-    }
-
-    public IRoutingTable Map(string url, Method method, Response response)
-        => method switch
-        {
-            Method.Get => this.MapGet(url, response),
-            Method.Post => this.MapPost(url, response),
-            _ =>throw  new InvalidOperationException($"Method {method} is not support")
-        };
-
-    public IRoutingTable MapGet(string url, Response response)
+        [Method.Get] = new(),
+        [Method.Post] = new(),
+        [Method.Put] = new(),
+        [Method.Delete] = new(),
+    };
+    public IRoutingTable Map(Method method, string path, Func<Request, Response> responseFunction)
     {
-        Guard.AgainstNull(url, nameof(url));
-        Guard.AgainstNull(response, nameof(response));
+        Guard.AgainstNull(path, nameof(path));
+        Guard.AgainstNull(responseFunction, nameof(responseFunction));
 
-        this.routes[Method.Get][url] = response;
+        this.routes[method][path] = responseFunction;
+
         return this;
     }
 
-    public IRoutingTable MapPost(string url, Response response)
-    {
-        Guard.AgainstNull(url, nameof(url));
-        Guard.AgainstNull(response, nameof(response));
+    public IRoutingTable MapGet(string path, Func<Request, Response> responseFunction)
+        => Map(Method.Get, path, responseFunction);
 
-        this.routes[Method.Post][url] = response;
-        return this;
-    }
+    public IRoutingTable MapPost(string path, Func<Request, Response> responseFunction)
+        => Map(Method.Post, path, responseFunction);
 
     public Response MatchRequest(Request request)
     {
-        var method = request.Method;
-        var url = request.Url;
+        var requestMethod = request.Method;
+        var requestUrl = request.Url;
 
-        if (!this.routes.ContainsKey(method) || !this.routes[method].ContainsKey(url))
+        if (!this.routes.ContainsKey(requestMethod) || !this.routes[requestMethod].ContainsKey(requestUrl))
         {
             return new NotFoundResponse();
         }
 
-        return this.routes[method][url];
+        var responseFunction = this.routes[requestMethod][requestUrl];
 
+        return responseFunction(request);
     }
 }

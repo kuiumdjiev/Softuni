@@ -2,8 +2,9 @@
 
 public class RedirectResponse:Response
 {
-    public RedirectResponse(string _location) : base(StatusCode.Found)
+    public RedirectResponse(string location)
+        : base(StatusCode.Found)
     {
-        this.HeaderCollection.Add(Header.Location, _location);
+        this.Headers.Add(Header.Location, location);
     }
 }

@@ -10,7 +10,7 @@ public class ContentResponse:Response
         Guard.AgainstNull(content);
         Guard.AgainstNull(contentType);
 
-        this.HeaderCollection.Add(Header.ContentType, contentType);
+        this.Headers.Add(Header.ContentType, contentType);
 
         this.Body = content;
     }
@@ -20,7 +20,7 @@ public class ContentResponse:Response
         {
 
             var contentLength = Encoding.UTF8.GetByteCount(this.Body).ToString();
-            this.HeaderCollection.Add(Header.ContentLength, contentLength);
+            this.Headers.Add(Header.ContentLength, contentLength);
 
         }
         return base.ToString();
