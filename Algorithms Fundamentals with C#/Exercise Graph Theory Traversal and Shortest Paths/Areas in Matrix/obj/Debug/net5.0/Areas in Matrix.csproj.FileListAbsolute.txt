@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Areas in Matrix\bin\Debug\net5.0\Areas in Matrix.exe
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Areas in Matrix\bin\Debug\net5.0\Areas in Matrix.deps.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Areas in Matrix\bin\Debug\net5.0\Areas in Matrix.runtimeconfig.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Areas in Matrix\bin\Debug\net5.0\Areas in Matrix.runtimeconfig.dev.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Areas in Matrix\bin\Debug\net5.0\Areas in Matrix.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Areas in Matrix\bin\Debug\net5.0\Areas in Matrix.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Areas in Matrix\obj\Debug\net5.0\Areas in Matrix.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Areas in Matrix\obj\Debug\net5.0\Areas in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Areas in Matrix\obj\Debug\net5.0\Areas in Matrix.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Areas in Matrix\obj\Debug\net5.0\Areas in Matrix.AssemblyInfo.cs
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Areas in Matrix\obj\Debug\net5.0\Areas in Matrix.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Areas in Matrix\obj\Debug\net5.0\Areas in Matrix.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Areas in Matrix\obj\Debug\net5.0\refint\Areas in Matrix.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Areas in Matrix\obj\Debug\net5.0\Areas in Matrix.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Areas in Matrix\obj\Debug\net5.0\Areas in Matrix.genruntimeconfig.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Areas in Matrix\obj\Debug\net5.0\ref\Areas in Matrix.dll

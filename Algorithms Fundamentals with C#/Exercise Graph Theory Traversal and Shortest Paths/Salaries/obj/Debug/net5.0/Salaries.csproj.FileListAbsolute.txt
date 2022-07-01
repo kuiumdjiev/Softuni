@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Salaries\bin\Debug\net5.0\Salaries.exe
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Salaries\bin\Debug\net5.0\Salaries.deps.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Salaries\bin\Debug\net5.0\Salaries.runtimeconfig.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Salaries\bin\Debug\net5.0\Salaries.runtimeconfig.dev.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Salaries\bin\Debug\net5.0\Salaries.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Salaries\bin\Debug\net5.0\Salaries.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Salaries\obj\Debug\net5.0\Salaries.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Salaries\obj\Debug\net5.0\Salaries.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Salaries\obj\Debug\net5.0\Salaries.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Salaries\obj\Debug\net5.0\Salaries.AssemblyInfo.cs
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Salaries\obj\Debug\net5.0\Salaries.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Salaries\obj\Debug\net5.0\Salaries.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Salaries\obj\Debug\net5.0\refint\Salaries.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Salaries\obj\Debug\net5.0\Salaries.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Salaries\obj\Debug\net5.0\Salaries.genruntimeconfig.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Salaries\obj\Debug\net5.0\ref\Salaries.dll

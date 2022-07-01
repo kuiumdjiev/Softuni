@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Road Reconstruction\bin\Debug\net5.0\Road Reconstruction.exe
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Road Reconstruction\bin\Debug\net5.0\Road Reconstruction.deps.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Road Reconstruction\bin\Debug\net5.0\Road Reconstruction.runtimeconfig.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Road Reconstruction\bin\Debug\net5.0\Road Reconstruction.runtimeconfig.dev.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Road Reconstruction\bin\Debug\net5.0\Road Reconstruction.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Road Reconstruction\bin\Debug\net5.0\Road Reconstruction.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Road Reconstruction\obj\Debug\net5.0\Road Reconstruction.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Road Reconstruction\obj\Debug\net5.0\Road Reconstruction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Road Reconstruction\obj\Debug\net5.0\Road Reconstruction.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Road Reconstruction\obj\Debug\net5.0\Road Reconstruction.AssemblyInfo.cs
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Road Reconstruction\obj\Debug\net5.0\Road Reconstruction.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Road Reconstruction\obj\Debug\net5.0\Road Reconstruction.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Road Reconstruction\obj\Debug\net5.0\refint\Road Reconstruction.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Road Reconstruction\obj\Debug\net5.0\Road Reconstruction.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Road Reconstruction\obj\Debug\net5.0\Road Reconstruction.genruntimeconfig.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Road Reconstruction\obj\Debug\net5.0\ref\Road Reconstruction.dll

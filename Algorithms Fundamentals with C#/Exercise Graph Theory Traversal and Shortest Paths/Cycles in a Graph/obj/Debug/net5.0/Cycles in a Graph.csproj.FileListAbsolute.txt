@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Cycles in a Graph\obj\Debug\net5.0\Cycles in a Graph.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Cycles in a Graph\obj\Debug\net5.0\Cycles in a Graph.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Cycles in a Graph\obj\Debug\net5.0\Cycles in a Graph.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Cycles in a Graph\obj\Debug\net5.0\Cycles in a Graph.AssemblyInfo.cs
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Cycles in a Graph\obj\Debug\net5.0\Cycles in a Graph.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Cycles in a Graph\bin\Debug\net5.0\Cycles in a Graph.exe
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Cycles in a Graph\bin\Debug\net5.0\Cycles in a Graph.deps.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Cycles in a Graph\bin\Debug\net5.0\Cycles in a Graph.runtimeconfig.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Cycles in a Graph\bin\Debug\net5.0\Cycles in a Graph.runtimeconfig.dev.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Cycles in a Graph\bin\Debug\net5.0\Cycles in a Graph.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Cycles in a Graph\bin\Debug\net5.0\Cycles in a Graph.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Cycles in a Graph\obj\Debug\net5.0\Cycles in a Graph.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Cycles in a Graph\obj\Debug\net5.0\refint\Cycles in a Graph.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Cycles in a Graph\obj\Debug\net5.0\Cycles in a Graph.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Cycles in a Graph\obj\Debug\net5.0\Cycles in a Graph.genruntimeconfig.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Cycles in a Graph\obj\Debug\net5.0\ref\Cycles in a Graph.dll

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Distance Between Vertices", "Distance Between Vertices\Distance Between Vertices.csproj", "{070ECC04-9378-42E3-82BA-1DAEED6504ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Areas in Matrix", "Areas in Matrix\Areas in Matrix.csproj", "{A631CFDC-D1AD-43DB-9393-4006904D7E98}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cycles in a Graph", "Cycles in a Graph\Cycles in a Graph.csproj", "{88AAD7DB-21BB-4EA8-97AB-087EFD5180B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Salaries", "Salaries\Salaries.csproj", "{33F5E5B8-D90F-4A09-896E-E1A1C955B1D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Road Reconstruction", "Road Reconstruction\Road Reconstruction.csproj", "{2710310D-3762-457B-B84C-55F11CB26BDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{070ECC04-9378-42E3-82BA-1DAEED6504ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070ECC04-9378-42E3-82BA-1DAEED6504ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070ECC04-9378-42E3-82BA-1DAEED6504ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070ECC04-9378-42E3-82BA-1DAEED6504ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A631CFDC-D1AD-43DB-9393-4006904D7E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A631CFDC-D1AD-43DB-9393-4006904D7E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A631CFDC-D1AD-43DB-9393-4006904D7E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A631CFDC-D1AD-43DB-9393-4006904D7E98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88AAD7DB-21BB-4EA8-97AB-087EFD5180B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88AAD7DB-21BB-4EA8-97AB-087EFD5180B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88AAD7DB-21BB-4EA8-97AB-087EFD5180B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88AAD7DB-21BB-4EA8-97AB-087EFD5180B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F5E5B8-D90F-4A09-896E-E1A1C955B1D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F5E5B8-D90F-4A09-896E-E1A1C955B1D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F5E5B8-D90F-4A09-896E-E1A1C955B1D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F5E5B8-D90F-4A09-896E-E1A1C955B1D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2710310D-3762-457B-B84C-55F11CB26BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2710310D-3762-457B-B84C-55F11CB26BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2710310D-3762-457B-B84C-55F11CB26BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2710310D-3762-457B-B84C-55F11CB26BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A8769DD-4F6E-49AC-BEFF-2728BEBE975E}
+	EndGlobalSection
+EndGlobal

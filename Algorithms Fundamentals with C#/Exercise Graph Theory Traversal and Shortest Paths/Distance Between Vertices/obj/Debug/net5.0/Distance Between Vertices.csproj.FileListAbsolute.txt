@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Distance Between Vertices\bin\Debug\net5.0\Distance Between Vertices.exe
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Distance Between Vertices\bin\Debug\net5.0\Distance Between Vertices.deps.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Distance Between Vertices\bin\Debug\net5.0\Distance Between Vertices.runtimeconfig.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Distance Between Vertices\bin\Debug\net5.0\Distance Between Vertices.runtimeconfig.dev.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Distance Between Vertices\bin\Debug\net5.0\Distance Between Vertices.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Distance Between Vertices\bin\Debug\net5.0\Distance Between Vertices.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Distance Between Vertices\obj\Debug\net5.0\Distance Between Vertices.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Distance Between Vertices\obj\Debug\net5.0\Distance Between Vertices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Distance Between Vertices\obj\Debug\net5.0\Distance Between Vertices.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Distance Between Vertices\obj\Debug\net5.0\Distance Between Vertices.AssemblyInfo.cs
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Distance Between Vertices\obj\Debug\net5.0\Distance Between Vertices.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Distance Between Vertices\obj\Debug\net5.0\Distance Between Vertices.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Distance Between Vertices\obj\Debug\net5.0\refint\Distance Between Vertices.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Distance Between Vertices\obj\Debug\net5.0\Distance Between Vertices.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Distance Between Vertices\obj\Debug\net5.0\Distance Between Vertices.genruntimeconfig.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Graph Theory Traversal and Shortest Paths\Distance Between Vertices\obj\Debug\net5.0\ref\Distance Between Vertices.dll
