@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Fundamentals with C#\Introduction to Dynamic Programming\Move Down Right\bin\Debug\net5.0\Move Down Right.exe
+E:\Проект\Algorithms Fundamentals with C#\Introduction to Dynamic Programming\Move Down Right\bin\Debug\net5.0\Move Down Right.deps.json
+E:\Проект\Algorithms Fundamentals with C#\Introduction to Dynamic Programming\Move Down Right\bin\Debug\net5.0\Move Down Right.runtimeconfig.json
+E:\Проект\Algorithms Fundamentals with C#\Introduction to Dynamic Programming\Move Down Right\bin\Debug\net5.0\Move Down Right.runtimeconfig.dev.json
+E:\Проект\Algorithms Fundamentals with C#\Introduction to Dynamic Programming\Move Down Right\bin\Debug\net5.0\Move Down Right.dll
+E:\Проект\Algorithms Fundamentals with C#\Introduction to Dynamic Programming\Move Down Right\bin\Debug\net5.0\Move Down Right.pdb
+E:\Проект\Algorithms Fundamentals with C#\Introduction to Dynamic Programming\Move Down Right\obj\Debug\net5.0\Move Down Right.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Fundamentals with C#\Introduction to Dynamic Programming\Move Down Right\obj\Debug\net5.0\Move Down Right.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Fundamentals with C#\Introduction to Dynamic Programming\Move Down Right\obj\Debug\net5.0\Move Down Right.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Introduction to Dynamic Programming\Move Down Right\obj\Debug\net5.0\Move Down Right.AssemblyInfo.cs
+E:\Проект\Algorithms Fundamentals with C#\Introduction to Dynamic Programming\Move Down Right\obj\Debug\net5.0\Move Down Right.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Introduction to Dynamic Programming\Move Down Right\obj\Debug\net5.0\Move Down Right.dll
+E:\Проект\Algorithms Fundamentals with C#\Introduction to Dynamic Programming\Move Down Right\obj\Debug\net5.0\refint\Move Down Right.dll
+E:\Проект\Algorithms Fundamentals with C#\Introduction to Dynamic Programming\Move Down Right\obj\Debug\net5.0\Move Down Right.pdb
+E:\Проект\Algorithms Fundamentals with C#\Introduction to Dynamic Programming\Move Down Right\obj\Debug\net5.0\Move Down Right.genruntimeconfig.cache
+E:\Проект\Algorithms Fundamentals with C#\Introduction to Dynamic Programming\Move Down Right\obj\Debug\net5.0\ref\Move Down Right.dll

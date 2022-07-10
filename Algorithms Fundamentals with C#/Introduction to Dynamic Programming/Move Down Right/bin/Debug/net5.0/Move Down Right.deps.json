@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Move Down Right/1.0.0": {
+        "runtime": {
+          "Move Down Right.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Move Down Right/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
