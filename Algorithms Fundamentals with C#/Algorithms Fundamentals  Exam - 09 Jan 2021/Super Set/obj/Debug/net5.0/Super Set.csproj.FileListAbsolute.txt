@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam - 09 Jan 2021\Super Set\bin\Debug\net5.0\Super Set.exe
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam - 09 Jan 2021\Super Set\bin\Debug\net5.0\Super Set.deps.json
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam - 09 Jan 2021\Super Set\bin\Debug\net5.0\Super Set.runtimeconfig.json
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam - 09 Jan 2021\Super Set\bin\Debug\net5.0\Super Set.runtimeconfig.dev.json
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam - 09 Jan 2021\Super Set\bin\Debug\net5.0\Super Set.dll
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam - 09 Jan 2021\Super Set\bin\Debug\net5.0\Super Set.pdb
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam - 09 Jan 2021\Super Set\obj\Debug\net5.0\Super Set.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam - 09 Jan 2021\Super Set\obj\Debug\net5.0\Super Set.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam - 09 Jan 2021\Super Set\obj\Debug\net5.0\Super Set.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam - 09 Jan 2021\Super Set\obj\Debug\net5.0\Super Set.AssemblyInfo.cs
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam - 09 Jan 2021\Super Set\obj\Debug\net5.0\Super Set.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam - 09 Jan 2021\Super Set\obj\Debug\net5.0\Super Set.dll
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam - 09 Jan 2021\Super Set\obj\Debug\net5.0\refint\Super Set.dll
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam - 09 Jan 2021\Super Set\obj\Debug\net5.0\Super Set.pdb
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam - 09 Jan 2021\Super Set\obj\Debug\net5.0\Super Set.genruntimeconfig.cache
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam - 09 Jan 2021\Super Set\obj\Debug\net5.0\ref\Super Set.dll

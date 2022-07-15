@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals Exam - 03 Jan 2021\TBC\bin\Debug\net5.0\TBC.exe
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals Exam - 03 Jan 2021\TBC\bin\Debug\net5.0\TBC.deps.json
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals Exam - 03 Jan 2021\TBC\bin\Debug\net5.0\TBC.runtimeconfig.json
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals Exam - 03 Jan 2021\TBC\bin\Debug\net5.0\TBC.runtimeconfig.dev.json
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals Exam - 03 Jan 2021\TBC\bin\Debug\net5.0\TBC.dll
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals Exam - 03 Jan 2021\TBC\bin\Debug\net5.0\TBC.pdb
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals Exam - 03 Jan 2021\TBC\obj\Debug\net5.0\TBC.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals Exam - 03 Jan 2021\TBC\obj\Debug\net5.0\TBC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals Exam - 03 Jan 2021\TBC\obj\Debug\net5.0\TBC.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals Exam - 03 Jan 2021\TBC\obj\Debug\net5.0\TBC.AssemblyInfo.cs
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals Exam - 03 Jan 2021\TBC\obj\Debug\net5.0\TBC.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals Exam - 03 Jan 2021\TBC\obj\Debug\net5.0\TBC.dll
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals Exam - 03 Jan 2021\TBC\obj\Debug\net5.0\refint\TBC.dll
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals Exam - 03 Jan 2021\TBC\obj\Debug\net5.0\TBC.pdb
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals Exam - 03 Jan 2021\TBC\obj\Debug\net5.0\TBC.genruntimeconfig.cache
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals Exam - 03 Jan 2021\TBC\obj\Debug\net5.0\ref\TBC.dll

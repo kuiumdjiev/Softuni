@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam 30 Jan 2022\Bank Robbery\bin\Debug\net5.0\Bank Robbery.exe
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam 30 Jan 2022\Bank Robbery\bin\Debug\net5.0\Bank Robbery.deps.json
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam 30 Jan 2022\Bank Robbery\bin\Debug\net5.0\Bank Robbery.runtimeconfig.json
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam 30 Jan 2022\Bank Robbery\bin\Debug\net5.0\Bank Robbery.runtimeconfig.dev.json
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam 30 Jan 2022\Bank Robbery\bin\Debug\net5.0\Bank Robbery.dll
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam 30 Jan 2022\Bank Robbery\bin\Debug\net5.0\Bank Robbery.pdb
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam 30 Jan 2022\Bank Robbery\obj\Debug\net5.0\Bank Robbery.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam 30 Jan 2022\Bank Robbery\obj\Debug\net5.0\Bank Robbery.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam 30 Jan 2022\Bank Robbery\obj\Debug\net5.0\Bank Robbery.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam 30 Jan 2022\Bank Robbery\obj\Debug\net5.0\Bank Robbery.AssemblyInfo.cs
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam 30 Jan 2022\Bank Robbery\obj\Debug\net5.0\Bank Robbery.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam 30 Jan 2022\Bank Robbery\obj\Debug\net5.0\Bank Robbery.dll
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam 30 Jan 2022\Bank Robbery\obj\Debug\net5.0\refint\Bank Robbery.dll
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam 30 Jan 2022\Bank Robbery\obj\Debug\net5.0\Bank Robbery.pdb
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam 30 Jan 2022\Bank Robbery\obj\Debug\net5.0\Bank Robbery.genruntimeconfig.cache
+E:\Проект\Algorithms Fundamentals with C#\Algorithms Fundamentals  Exam 30 Jan 2022\Bank Robbery\obj\Debug\net5.0\ref\Bank Robbery.dll
