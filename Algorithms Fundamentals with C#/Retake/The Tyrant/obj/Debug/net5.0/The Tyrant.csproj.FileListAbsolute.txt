@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Fundamentals with C#\Retake\The Tyrant\bin\Debug\net5.0\The Tyrant.exe
+E:\Проект\Algorithms Fundamentals with C#\Retake\The Tyrant\bin\Debug\net5.0\The Tyrant.deps.json
+E:\Проект\Algorithms Fundamentals with C#\Retake\The Tyrant\bin\Debug\net5.0\The Tyrant.runtimeconfig.json
+E:\Проект\Algorithms Fundamentals with C#\Retake\The Tyrant\bin\Debug\net5.0\The Tyrant.runtimeconfig.dev.json
+E:\Проект\Algorithms Fundamentals with C#\Retake\The Tyrant\bin\Debug\net5.0\The Tyrant.dll
+E:\Проект\Algorithms Fundamentals with C#\Retake\The Tyrant\bin\Debug\net5.0\The Tyrant.pdb
+E:\Проект\Algorithms Fundamentals with C#\Retake\The Tyrant\obj\Debug\net5.0\The Tyrant.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Fundamentals with C#\Retake\The Tyrant\obj\Debug\net5.0\The Tyrant.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Fundamentals with C#\Retake\The Tyrant\obj\Debug\net5.0\The Tyrant.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Retake\The Tyrant\obj\Debug\net5.0\The Tyrant.AssemblyInfo.cs
+E:\Проект\Algorithms Fundamentals with C#\Retake\The Tyrant\obj\Debug\net5.0\The Tyrant.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Retake\The Tyrant\obj\Debug\net5.0\The Tyrant.dll
+E:\Проект\Algorithms Fundamentals with C#\Retake\The Tyrant\obj\Debug\net5.0\refint\The Tyrant.dll
+E:\Проект\Algorithms Fundamentals with C#\Retake\The Tyrant\obj\Debug\net5.0\The Tyrant.pdb
+E:\Проект\Algorithms Fundamentals with C#\Retake\The Tyrant\obj\Debug\net5.0\The Tyrant.genruntimeconfig.cache
+E:\Проект\Algorithms Fundamentals with C#\Retake\The Tyrant\obj\Debug\net5.0\ref\The Tyrant.dll
