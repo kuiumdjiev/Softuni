@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Minimum Edit Distance\bin\Debug\net5.0\Minimum Edit Distance.exe
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Minimum Edit Distance\bin\Debug\net5.0\Minimum Edit Distance.deps.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Minimum Edit Distance\bin\Debug\net5.0\Minimum Edit Distance.runtimeconfig.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Minimum Edit Distance\bin\Debug\net5.0\Minimum Edit Distance.runtimeconfig.dev.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Minimum Edit Distance\bin\Debug\net5.0\Minimum Edit Distance.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Minimum Edit Distance\bin\Debug\net5.0\Minimum Edit Distance.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Minimum Edit Distance\obj\Debug\net5.0\Minimum Edit Distance.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Minimum Edit Distance\obj\Debug\net5.0\Minimum Edit Distance.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Minimum Edit Distance\obj\Debug\net5.0\Minimum Edit Distance.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Minimum Edit Distance\obj\Debug\net5.0\Minimum Edit Distance.AssemblyInfo.cs
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Minimum Edit Distance\obj\Debug\net5.0\Minimum Edit Distance.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Minimum Edit Distance\obj\Debug\net5.0\Minimum Edit Distance.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Minimum Edit Distance\obj\Debug\net5.0\refint\Minimum Edit Distance.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Minimum Edit Distance\obj\Debug\net5.0\Minimum Edit Distance.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Minimum Edit Distance\obj\Debug\net5.0\Minimum Edit Distance.genruntimeconfig.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Minimum Edit Distance\obj\Debug\net5.0\ref\Minimum Edit Distance.dll

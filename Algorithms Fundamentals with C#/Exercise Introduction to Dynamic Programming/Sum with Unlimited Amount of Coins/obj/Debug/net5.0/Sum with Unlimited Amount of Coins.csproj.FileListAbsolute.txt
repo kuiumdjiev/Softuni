@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Unlimited Amount of Coins\bin\Debug\net5.0\Sum with Unlimited Amount of Coins.exe
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Unlimited Amount of Coins\bin\Debug\net5.0\Sum with Unlimited Amount of Coins.deps.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Unlimited Amount of Coins\bin\Debug\net5.0\Sum with Unlimited Amount of Coins.runtimeconfig.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Unlimited Amount of Coins\bin\Debug\net5.0\Sum with Unlimited Amount of Coins.runtimeconfig.dev.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Unlimited Amount of Coins\bin\Debug\net5.0\Sum with Unlimited Amount of Coins.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Unlimited Amount of Coins\bin\Debug\net5.0\Sum with Unlimited Amount of Coins.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Unlimited Amount of Coins\obj\Debug\net5.0\Sum with Unlimited Amount of Coins.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Unlimited Amount of Coins\obj\Debug\net5.0\Sum with Unlimited Amount of Coins.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Unlimited Amount of Coins\obj\Debug\net5.0\Sum with Unlimited Amount of Coins.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Unlimited Amount of Coins\obj\Debug\net5.0\Sum with Unlimited Amount of Coins.AssemblyInfo.cs
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Unlimited Amount of Coins\obj\Debug\net5.0\Sum with Unlimited Amount of Coins.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Unlimited Amount of Coins\obj\Debug\net5.0\Sum with Unlimited Amount of Coins.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Unlimited Amount of Coins\obj\Debug\net5.0\refint\Sum with Unlimited Amount of Coins.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Unlimited Amount of Coins\obj\Debug\net5.0\Sum with Unlimited Amount of Coins.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Unlimited Amount of Coins\obj\Debug\net5.0\Sum with Unlimited Amount of Coins.genruntimeconfig.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Unlimited Amount of Coins\obj\Debug\net5.0\ref\Sum with Unlimited Amount of Coins.dll

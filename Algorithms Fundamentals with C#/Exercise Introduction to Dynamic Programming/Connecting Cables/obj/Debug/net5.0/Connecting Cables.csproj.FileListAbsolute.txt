@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Connecting Cables\bin\Debug\net5.0\Connecting Cables.exe
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Connecting Cables\bin\Debug\net5.0\Connecting Cables.deps.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Connecting Cables\bin\Debug\net5.0\Connecting Cables.runtimeconfig.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Connecting Cables\bin\Debug\net5.0\Connecting Cables.runtimeconfig.dev.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Connecting Cables\bin\Debug\net5.0\Connecting Cables.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Connecting Cables\bin\Debug\net5.0\Connecting Cables.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Connecting Cables\obj\Debug\net5.0\Connecting Cables.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Connecting Cables\obj\Debug\net5.0\Connecting Cables.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Connecting Cables\obj\Debug\net5.0\Connecting Cables.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Connecting Cables\obj\Debug\net5.0\Connecting Cables.AssemblyInfo.cs
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Connecting Cables\obj\Debug\net5.0\Connecting Cables.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Connecting Cables\obj\Debug\net5.0\Connecting Cables.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Connecting Cables\obj\Debug\net5.0\refint\Connecting Cables.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Connecting Cables\obj\Debug\net5.0\Connecting Cables.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Connecting Cables\obj\Debug\net5.0\Connecting Cables.genruntimeconfig.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Connecting Cables\obj\Debug\net5.0\ref\Connecting Cables.dll

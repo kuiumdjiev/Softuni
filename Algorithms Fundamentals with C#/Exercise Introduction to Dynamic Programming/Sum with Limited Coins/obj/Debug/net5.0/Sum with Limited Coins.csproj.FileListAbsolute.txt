@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Limited Coins\bin\Debug\net5.0\Sum with Limited Coins.exe
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Limited Coins\bin\Debug\net5.0\Sum with Limited Coins.deps.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Limited Coins\bin\Debug\net5.0\Sum with Limited Coins.runtimeconfig.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Limited Coins\bin\Debug\net5.0\Sum with Limited Coins.runtimeconfig.dev.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Limited Coins\bin\Debug\net5.0\Sum with Limited Coins.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Limited Coins\bin\Debug\net5.0\Sum with Limited Coins.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Limited Coins\obj\Debug\net5.0\Sum with Limited Coins.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Limited Coins\obj\Debug\net5.0\Sum with Limited Coins.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Limited Coins\obj\Debug\net5.0\Sum with Limited Coins.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Limited Coins\obj\Debug\net5.0\Sum with Limited Coins.AssemblyInfo.cs
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Limited Coins\obj\Debug\net5.0\Sum with Limited Coins.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Limited Coins\obj\Debug\net5.0\Sum with Limited Coins.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Limited Coins\obj\Debug\net5.0\refint\Sum with Limited Coins.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Limited Coins\obj\Debug\net5.0\Sum with Limited Coins.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Limited Coins\obj\Debug\net5.0\Sum with Limited Coins.genruntimeconfig.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Sum with Limited Coins\obj\Debug\net5.0\ref\Sum with Limited Coins.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Dividing Presents/1.0.0": {
+        "runtime": {
+          "Dividing Presents.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dividing Presents/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

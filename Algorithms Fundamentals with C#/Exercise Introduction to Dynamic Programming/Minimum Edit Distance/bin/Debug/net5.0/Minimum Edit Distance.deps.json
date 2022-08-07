@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Minimum Edit Distance/1.0.0": {
+        "runtime": {
+          "Minimum Edit Distance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Minimum Edit Distance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

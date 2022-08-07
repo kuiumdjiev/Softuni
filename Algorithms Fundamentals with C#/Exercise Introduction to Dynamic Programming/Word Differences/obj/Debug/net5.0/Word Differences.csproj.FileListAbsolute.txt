@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Word Differences\bin\Debug\net5.0\Word Differences.exe
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Word Differences\bin\Debug\net5.0\Word Differences.deps.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Word Differences\bin\Debug\net5.0\Word Differences.runtimeconfig.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Word Differences\bin\Debug\net5.0\Word Differences.runtimeconfig.dev.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Word Differences\bin\Debug\net5.0\Word Differences.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Word Differences\bin\Debug\net5.0\Word Differences.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Word Differences\obj\Debug\net5.0\Word Differences.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Word Differences\obj\Debug\net5.0\Word Differences.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Word Differences\obj\Debug\net5.0\Word Differences.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Word Differences\obj\Debug\net5.0\Word Differences.AssemblyInfo.cs
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Word Differences\obj\Debug\net5.0\Word Differences.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Word Differences\obj\Debug\net5.0\Word Differences.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Word Differences\obj\Debug\net5.0\refint\Word Differences.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Word Differences\obj\Debug\net5.0\Word Differences.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Word Differences\obj\Debug\net5.0\Word Differences.genruntimeconfig.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Word Differences\obj\Debug\net5.0\ref\Word Differences.dll

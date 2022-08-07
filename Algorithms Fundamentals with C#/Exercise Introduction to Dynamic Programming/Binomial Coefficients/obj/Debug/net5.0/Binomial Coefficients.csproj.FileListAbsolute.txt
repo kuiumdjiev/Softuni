@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Binomial Coefficients\bin\Debug\net5.0\Binomial Coefficients.exe
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Binomial Coefficients\bin\Debug\net5.0\Binomial Coefficients.deps.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Binomial Coefficients\bin\Debug\net5.0\Binomial Coefficients.runtimeconfig.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Binomial Coefficients\bin\Debug\net5.0\Binomial Coefficients.runtimeconfig.dev.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Binomial Coefficients\bin\Debug\net5.0\Binomial Coefficients.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Binomial Coefficients\bin\Debug\net5.0\Binomial Coefficients.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Binomial Coefficients\obj\Debug\net5.0\Binomial Coefficients.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Binomial Coefficients\obj\Debug\net5.0\Binomial Coefficients.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Binomial Coefficients\obj\Debug\net5.0\Binomial Coefficients.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Binomial Coefficients\obj\Debug\net5.0\Binomial Coefficients.AssemblyInfo.cs
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Binomial Coefficients\obj\Debug\net5.0\Binomial Coefficients.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Binomial Coefficients\obj\Debug\net5.0\Binomial Coefficients.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Binomial Coefficients\obj\Debug\net5.0\refint\Binomial Coefficients.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Binomial Coefficients\obj\Debug\net5.0\Binomial Coefficients.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Binomial Coefficients\obj\Debug\net5.0\Binomial Coefficients.genruntimeconfig.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Binomial Coefficients\obj\Debug\net5.0\ref\Binomial Coefficients.dll

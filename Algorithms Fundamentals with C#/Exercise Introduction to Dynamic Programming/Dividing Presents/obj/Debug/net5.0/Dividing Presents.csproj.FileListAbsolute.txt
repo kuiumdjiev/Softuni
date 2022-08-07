@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Dividing Presents\bin\Debug\net5.0\Dividing Presents.exe
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Dividing Presents\bin\Debug\net5.0\Dividing Presents.deps.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Dividing Presents\bin\Debug\net5.0\Dividing Presents.runtimeconfig.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Dividing Presents\bin\Debug\net5.0\Dividing Presents.runtimeconfig.dev.json
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Dividing Presents\bin\Debug\net5.0\Dividing Presents.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Dividing Presents\bin\Debug\net5.0\Dividing Presents.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Dividing Presents\obj\Debug\net5.0\Dividing Presents.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Dividing Presents\obj\Debug\net5.0\Dividing Presents.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Dividing Presents\obj\Debug\net5.0\Dividing Presents.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Dividing Presents\obj\Debug\net5.0\Dividing Presents.AssemblyInfo.cs
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Dividing Presents\obj\Debug\net5.0\Dividing Presents.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Dividing Presents\obj\Debug\net5.0\Dividing Presents.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Dividing Presents\obj\Debug\net5.0\refint\Dividing Presents.dll
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Dividing Presents\obj\Debug\net5.0\Dividing Presents.pdb
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Dividing Presents\obj\Debug\net5.0\Dividing Presents.genruntimeconfig.cache
+E:\Проект\Algorithms Fundamentals with C#\Exercise Introduction to Dynamic Programming\Dividing Presents\obj\Debug\net5.0\ref\Dividing Presents.dll
