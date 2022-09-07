@@ -1,0 +1,18 @@
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Dijkstra's Algorithm\bin\Debug\net5.0\Dijkstra's Algorithm.exe
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Dijkstra's Algorithm\bin\Debug\net5.0\Dijkstra's Algorithm.deps.json
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Dijkstra's Algorithm\bin\Debug\net5.0\Dijkstra's Algorithm.runtimeconfig.json
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Dijkstra's Algorithm\bin\Debug\net5.0\Dijkstra's Algorithm.runtimeconfig.dev.json
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Dijkstra's Algorithm\bin\Debug\net5.0\Dijkstra's Algorithm.dll
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Dijkstra's Algorithm\bin\Debug\net5.0\Dijkstra's Algorithm.pdb
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Dijkstra's Algorithm\bin\Debug\net5.0\PowerCollections.dll
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Dijkstra's Algorithm\obj\Debug\net5.0\Dijkstra's Algorithm.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Dijkstra's Algorithm\obj\Debug\net5.0\Dijkstra's Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Dijkstra's Algorithm\obj\Debug\net5.0\Dijkstra's Algorithm.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Dijkstra's Algorithm\obj\Debug\net5.0\Dijkstra's Algorithm.AssemblyInfo.cs
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Dijkstra's Algorithm\obj\Debug\net5.0\Dijkstra's Algorithm.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Dijkstra's Algorithm\obj\Debug\net5.0\Dijkstra's Algorithm.csproj.CopyComplete
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Dijkstra's Algorithm\obj\Debug\net5.0\Dijkstra's Algorithm.dll
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Dijkstra's Algorithm\obj\Debug\net5.0\refint\Dijkstra's Algorithm.dll
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Dijkstra's Algorithm\obj\Debug\net5.0\Dijkstra's Algorithm.pdb
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Dijkstra's Algorithm\obj\Debug\net5.0\Dijkstra's Algorithm.genruntimeconfig.cache
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Dijkstra's Algorithm\obj\Debug\net5.0\ref\Dijkstra's Algorithm.dll

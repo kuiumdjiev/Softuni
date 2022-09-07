@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Kruskal's Algorithm\bin\Debug\net5.0\Kruskal's Algorithm.exe
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Kruskal's Algorithm\bin\Debug\net5.0\Kruskal's Algorithm.deps.json
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Kruskal's Algorithm\bin\Debug\net5.0\Kruskal's Algorithm.runtimeconfig.json
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Kruskal's Algorithm\bin\Debug\net5.0\Kruskal's Algorithm.runtimeconfig.dev.json
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Kruskal's Algorithm\bin\Debug\net5.0\Kruskal's Algorithm.dll
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Kruskal's Algorithm\bin\Debug\net5.0\Kruskal's Algorithm.pdb
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Kruskal's Algorithm\obj\Debug\net5.0\Kruskal's Algorithm.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Kruskal's Algorithm\obj\Debug\net5.0\Kruskal's Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Kruskal's Algorithm\obj\Debug\net5.0\Kruskal's Algorithm.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Kruskal's Algorithm\obj\Debug\net5.0\Kruskal's Algorithm.AssemblyInfo.cs
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Kruskal's Algorithm\obj\Debug\net5.0\Kruskal's Algorithm.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Kruskal's Algorithm\obj\Debug\net5.0\Kruskal's Algorithm.dll
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Kruskal's Algorithm\obj\Debug\net5.0\refint\Kruskal's Algorithm.dll
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Kruskal's Algorithm\obj\Debug\net5.0\Kruskal's Algorithm.pdb
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Kruskal's Algorithm\obj\Debug\net5.0\Kruskal's Algorithm.genruntimeconfig.cache
+E:\Проект\Algorithms Advanced  with C#\Graphs Dijkstra, MST\Kruskal's Algorithm\obj\Debug\net5.0\ref\Kruskal's Algorithm.dll
