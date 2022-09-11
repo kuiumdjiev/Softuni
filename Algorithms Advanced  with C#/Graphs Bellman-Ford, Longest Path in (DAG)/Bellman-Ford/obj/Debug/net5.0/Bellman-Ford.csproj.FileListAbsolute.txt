@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Advanced  with C#\Graphs Bellman-Ford, Longest Path in (DAG)\Bellman-Ford\bin\Debug\net5.0\Bellman-Ford.exe
+E:\Проект\Algorithms Advanced  with C#\Graphs Bellman-Ford, Longest Path in (DAG)\Bellman-Ford\bin\Debug\net5.0\Bellman-Ford.deps.json
+E:\Проект\Algorithms Advanced  with C#\Graphs Bellman-Ford, Longest Path in (DAG)\Bellman-Ford\bin\Debug\net5.0\Bellman-Ford.runtimeconfig.json
+E:\Проект\Algorithms Advanced  with C#\Graphs Bellman-Ford, Longest Path in (DAG)\Bellman-Ford\bin\Debug\net5.0\Bellman-Ford.runtimeconfig.dev.json
+E:\Проект\Algorithms Advanced  with C#\Graphs Bellman-Ford, Longest Path in (DAG)\Bellman-Ford\bin\Debug\net5.0\Bellman-Ford.dll
+E:\Проект\Algorithms Advanced  with C#\Graphs Bellman-Ford, Longest Path in (DAG)\Bellman-Ford\bin\Debug\net5.0\Bellman-Ford.pdb
+E:\Проект\Algorithms Advanced  with C#\Graphs Bellman-Ford, Longest Path in (DAG)\Bellman-Ford\obj\Debug\net5.0\Bellman-Ford.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Advanced  with C#\Graphs Bellman-Ford, Longest Path in (DAG)\Bellman-Ford\obj\Debug\net5.0\Bellman-Ford.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Advanced  with C#\Graphs Bellman-Ford, Longest Path in (DAG)\Bellman-Ford\obj\Debug\net5.0\Bellman-Ford.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Graphs Bellman-Ford, Longest Path in (DAG)\Bellman-Ford\obj\Debug\net5.0\Bellman-Ford.AssemblyInfo.cs
+E:\Проект\Algorithms Advanced  with C#\Graphs Bellman-Ford, Longest Path in (DAG)\Bellman-Ford\obj\Debug\net5.0\Bellman-Ford.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Graphs Bellman-Ford, Longest Path in (DAG)\Bellman-Ford\obj\Debug\net5.0\Bellman-Ford.dll
+E:\Проект\Algorithms Advanced  with C#\Graphs Bellman-Ford, Longest Path in (DAG)\Bellman-Ford\obj\Debug\net5.0\refint\Bellman-Ford.dll
+E:\Проект\Algorithms Advanced  with C#\Graphs Bellman-Ford, Longest Path in (DAG)\Bellman-Ford\obj\Debug\net5.0\Bellman-Ford.pdb
+E:\Проект\Algorithms Advanced  with C#\Graphs Bellman-Ford, Longest Path in (DAG)\Bellman-Ford\obj\Debug\net5.0\Bellman-Ford.genruntimeconfig.cache
+E:\Проект\Algorithms Advanced  with C#\Graphs Bellman-Ford, Longest Path in (DAG)\Bellman-Ford\obj\Debug\net5.0\ref\Bellman-Ford.dll
