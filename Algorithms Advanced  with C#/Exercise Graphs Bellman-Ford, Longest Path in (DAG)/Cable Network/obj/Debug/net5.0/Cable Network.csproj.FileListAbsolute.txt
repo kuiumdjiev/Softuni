@@ -1,0 +1,18 @@
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cable Network\bin\Debug\net5.0\Cable Network.exe
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cable Network\bin\Debug\net5.0\Cable Network.deps.json
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cable Network\bin\Debug\net5.0\Cable Network.runtimeconfig.json
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cable Network\bin\Debug\net5.0\Cable Network.runtimeconfig.dev.json
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cable Network\bin\Debug\net5.0\Cable Network.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cable Network\bin\Debug\net5.0\Cable Network.pdb
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cable Network\bin\Debug\net5.0\PowerCollections.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cable Network\obj\Debug\net5.0\Cable Network.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cable Network\obj\Debug\net5.0\Cable Network.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cable Network\obj\Debug\net5.0\Cable Network.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cable Network\obj\Debug\net5.0\Cable Network.AssemblyInfo.cs
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cable Network\obj\Debug\net5.0\Cable Network.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cable Network\obj\Debug\net5.0\Cable Network.csproj.CopyComplete
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cable Network\obj\Debug\net5.0\Cable Network.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cable Network\obj\Debug\net5.0\refint\Cable Network.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cable Network\obj\Debug\net5.0\Cable Network.pdb
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cable Network\obj\Debug\net5.0\Cable Network.genruntimeconfig.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cable Network\obj\Debug\net5.0\ref\Cable Network.dll

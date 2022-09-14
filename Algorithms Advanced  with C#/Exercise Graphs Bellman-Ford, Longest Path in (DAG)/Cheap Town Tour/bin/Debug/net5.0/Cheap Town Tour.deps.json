@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Cheap Town Tour/1.0.0": {
+        "runtime": {
+          "Cheap Town Tour.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cheap Town Tour/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

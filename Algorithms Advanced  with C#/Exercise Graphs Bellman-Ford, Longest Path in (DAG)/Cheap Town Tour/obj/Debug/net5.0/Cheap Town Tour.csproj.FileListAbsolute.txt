@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cheap Town Tour\bin\Debug\net5.0\Cheap Town Tour.exe
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cheap Town Tour\bin\Debug\net5.0\Cheap Town Tour.deps.json
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cheap Town Tour\bin\Debug\net5.0\Cheap Town Tour.runtimeconfig.json
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cheap Town Tour\bin\Debug\net5.0\Cheap Town Tour.runtimeconfig.dev.json
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cheap Town Tour\bin\Debug\net5.0\Cheap Town Tour.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cheap Town Tour\bin\Debug\net5.0\Cheap Town Tour.pdb
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cheap Town Tour\obj\Debug\net5.0\Cheap Town Tour.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cheap Town Tour\obj\Debug\net5.0\Cheap Town Tour.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cheap Town Tour\obj\Debug\net5.0\Cheap Town Tour.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cheap Town Tour\obj\Debug\net5.0\Cheap Town Tour.AssemblyInfo.cs
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cheap Town Tour\obj\Debug\net5.0\Cheap Town Tour.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cheap Town Tour\obj\Debug\net5.0\Cheap Town Tour.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cheap Town Tour\obj\Debug\net5.0\refint\Cheap Town Tour.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cheap Town Tour\obj\Debug\net5.0\Cheap Town Tour.pdb
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cheap Town Tour\obj\Debug\net5.0\Cheap Town Tour.genruntimeconfig.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Cheap Town Tour\obj\Debug\net5.0\ref\Cheap Town Tour.dll

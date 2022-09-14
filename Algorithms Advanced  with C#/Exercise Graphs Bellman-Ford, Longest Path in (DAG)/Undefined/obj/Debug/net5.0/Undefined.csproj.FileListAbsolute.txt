@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Undefined\bin\Debug\net5.0\Undefined.exe
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Undefined\bin\Debug\net5.0\Undefined.deps.json
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Undefined\bin\Debug\net5.0\Undefined.runtimeconfig.json
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Undefined\bin\Debug\net5.0\Undefined.runtimeconfig.dev.json
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Undefined\bin\Debug\net5.0\Undefined.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Undefined\bin\Debug\net5.0\Undefined.pdb
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Undefined\obj\Debug\net5.0\Undefined.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Undefined\obj\Debug\net5.0\Undefined.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Undefined\obj\Debug\net5.0\Undefined.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Undefined\obj\Debug\net5.0\Undefined.AssemblyInfo.cs
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Undefined\obj\Debug\net5.0\Undefined.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Undefined\obj\Debug\net5.0\Undefined.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Undefined\obj\Debug\net5.0\refint\Undefined.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Undefined\obj\Debug\net5.0\Undefined.pdb
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Undefined\obj\Debug\net5.0\Undefined.genruntimeconfig.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Undefined\obj\Debug\net5.0\ref\Undefined.dll

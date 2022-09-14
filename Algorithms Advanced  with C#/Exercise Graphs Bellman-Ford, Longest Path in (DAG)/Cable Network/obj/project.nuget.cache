@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "qgxenB2ztM+XmFiKDyv0q7DJCI8eEjvWan4yydJff9zflD5VoGOY1AA0VSWRdWUAulkYIiyI40cG40MBkQh53A==",
+  "success": true,
+  "projectFilePath": "E:\\Проект\\Algorithms Advanced  with C#\\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\\Cable Network\\Cable Network.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stefan\\.nuget\\packages\\xact.wintellect.powercollections\\0.0.1\\xact.wintellect.powercollections.0.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'XAct.Wintellect.PowerCollections 0.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "XAct.Wintellect.PowerCollections",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

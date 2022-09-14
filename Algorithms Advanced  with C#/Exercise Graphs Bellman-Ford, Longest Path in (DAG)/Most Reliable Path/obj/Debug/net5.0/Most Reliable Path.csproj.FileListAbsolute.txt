@@ -1,0 +1,18 @@
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Most Reliable Path\bin\Debug\net5.0\Most Reliable Path.exe
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Most Reliable Path\bin\Debug\net5.0\Most Reliable Path.deps.json
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Most Reliable Path\bin\Debug\net5.0\Most Reliable Path.runtimeconfig.json
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Most Reliable Path\bin\Debug\net5.0\Most Reliable Path.runtimeconfig.dev.json
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Most Reliable Path\bin\Debug\net5.0\Most Reliable Path.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Most Reliable Path\bin\Debug\net5.0\Most Reliable Path.pdb
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Most Reliable Path\bin\Debug\net5.0\PowerCollections.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Most Reliable Path\obj\Debug\net5.0\Most Reliable Path.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Most Reliable Path\obj\Debug\net5.0\Most Reliable Path.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Most Reliable Path\obj\Debug\net5.0\Most Reliable Path.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Most Reliable Path\obj\Debug\net5.0\Most Reliable Path.AssemblyInfo.cs
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Most Reliable Path\obj\Debug\net5.0\Most Reliable Path.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Most Reliable Path\obj\Debug\net5.0\Most Reliable Path.csproj.CopyComplete
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Most Reliable Path\obj\Debug\net5.0\Most Reliable Path.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Most Reliable Path\obj\Debug\net5.0\refint\Most Reliable Path.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Most Reliable Path\obj\Debug\net5.0\Most Reliable Path.pdb
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Most Reliable Path\obj\Debug\net5.0\Most Reliable Path.genruntimeconfig.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Most Reliable Path\obj\Debug\net5.0\ref\Most Reliable Path.dll

@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Big Trip\bin\Debug\net5.0\Big Trip.exe
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Big Trip\bin\Debug\net5.0\Big Trip.deps.json
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Big Trip\bin\Debug\net5.0\Big Trip.runtimeconfig.json
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Big Trip\bin\Debug\net5.0\Big Trip.runtimeconfig.dev.json
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Big Trip\bin\Debug\net5.0\Big Trip.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Big Trip\bin\Debug\net5.0\Big Trip.pdb
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Big Trip\obj\Debug\net5.0\Big Trip.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Big Trip\obj\Debug\net5.0\Big Trip.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Big Trip\obj\Debug\net5.0\Big Trip.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Big Trip\obj\Debug\net5.0\Big Trip.AssemblyInfo.cs
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Big Trip\obj\Debug\net5.0\Big Trip.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Big Trip\obj\Debug\net5.0\Big Trip.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Big Trip\obj\Debug\net5.0\refint\Big Trip.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Big Trip\obj\Debug\net5.0\Big Trip.pdb
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Big Trip\obj\Debug\net5.0\Big Trip.genruntimeconfig.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Graphs Bellman-Ford, Longest Path in (DAG)\Big Trip\obj\Debug\net5.0\ref\Big Trip.dll
