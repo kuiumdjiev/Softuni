@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Max Flow algorithm - Edmonds-Karp\bin\Debug\net5.0\Max Flow algorithm - Edmonds-Karp.exe
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Max Flow algorithm - Edmonds-Karp\bin\Debug\net5.0\Max Flow algorithm - Edmonds-Karp.deps.json
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Max Flow algorithm - Edmonds-Karp\bin\Debug\net5.0\Max Flow algorithm - Edmonds-Karp.runtimeconfig.json
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Max Flow algorithm - Edmonds-Karp\bin\Debug\net5.0\Max Flow algorithm - Edmonds-Karp.runtimeconfig.dev.json
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Max Flow algorithm - Edmonds-Karp\bin\Debug\net5.0\Max Flow algorithm - Edmonds-Karp.dll
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Max Flow algorithm - Edmonds-Karp\bin\Debug\net5.0\Max Flow algorithm - Edmonds-Karp.pdb
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Max Flow algorithm - Edmonds-Karp\obj\Debug\net5.0\Max Flow algorithm - Edmonds-Karp.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Max Flow algorithm - Edmonds-Karp\obj\Debug\net5.0\Max Flow algorithm - Edmonds-Karp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Max Flow algorithm - Edmonds-Karp\obj\Debug\net5.0\Max Flow algorithm - Edmonds-Karp.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Max Flow algorithm - Edmonds-Karp\obj\Debug\net5.0\Max Flow algorithm - Edmonds-Karp.AssemblyInfo.cs
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Max Flow algorithm - Edmonds-Karp\obj\Debug\net5.0\Max Flow algorithm - Edmonds-Karp.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Max Flow algorithm - Edmonds-Karp\obj\Debug\net5.0\Max Flow algorithm - Edmonds-Karp.dll
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Max Flow algorithm - Edmonds-Karp\obj\Debug\net5.0\refint\Max Flow algorithm - Edmonds-Karp.dll
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Max Flow algorithm - Edmonds-Karp\obj\Debug\net5.0\Max Flow algorithm - Edmonds-Karp.pdb
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Max Flow algorithm - Edmonds-Karp\obj\Debug\net5.0\Max Flow algorithm - Edmonds-Karp.genruntimeconfig.cache
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Max Flow algorithm - Edmonds-Karp\obj\Debug\net5.0\ref\Max Flow algorithm - Edmonds-Karp.dll

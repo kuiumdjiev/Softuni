@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Strongly Connected Components (SCC)\bin\Debug\net5.0\Strongly Connected Components (SCC).exe
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Strongly Connected Components (SCC)\bin\Debug\net5.0\Strongly Connected Components (SCC).deps.json
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Strongly Connected Components (SCC)\bin\Debug\net5.0\Strongly Connected Components (SCC).runtimeconfig.json
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Strongly Connected Components (SCC)\bin\Debug\net5.0\Strongly Connected Components (SCC).runtimeconfig.dev.json
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Strongly Connected Components (SCC)\bin\Debug\net5.0\Strongly Connected Components (SCC).dll
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Strongly Connected Components (SCC)\bin\Debug\net5.0\Strongly Connected Components (SCC).pdb
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Strongly Connected Components (SCC)\obj\Debug\net5.0\Strongly Connected Components (SCC).csproj.AssemblyReference.cache
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Strongly Connected Components (SCC)\obj\Debug\net5.0\Strongly Connected Components (SCC).GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Strongly Connected Components (SCC)\obj\Debug\net5.0\Strongly Connected Components (SCC).AssemblyInfoInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Strongly Connected Components (SCC)\obj\Debug\net5.0\Strongly Connected Components (SCC).AssemblyInfo.cs
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Strongly Connected Components (SCC)\obj\Debug\net5.0\Strongly Connected Components (SCC).csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Strongly Connected Components (SCC)\obj\Debug\net5.0\Strongly Connected Components (SCC).dll
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Strongly Connected Components (SCC)\obj\Debug\net5.0\refint\Strongly Connected Components (SCC).dll
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Strongly Connected Components (SCC)\obj\Debug\net5.0\Strongly Connected Components (SCC).pdb
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Strongly Connected Components (SCC)\obj\Debug\net5.0\Strongly Connected Components (SCC).genruntimeconfig.cache
+E:\Проект\Algorithms Advanced  with C#\Graphs Strongly Connected Components, Max Flow\Strongly Connected Components (SCC)\obj\Debug\net5.0\ref\Strongly Connected Components (SCC).dll
