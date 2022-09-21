@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Longest String Chain\bin\Debug\net5.0\Longest String Chain.exe
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Longest String Chain\bin\Debug\net5.0\Longest String Chain.deps.json
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Longest String Chain\bin\Debug\net5.0\Longest String Chain.runtimeconfig.json
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Longest String Chain\bin\Debug\net5.0\Longest String Chain.runtimeconfig.dev.json
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Longest String Chain\bin\Debug\net5.0\Longest String Chain.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Longest String Chain\bin\Debug\net5.0\Longest String Chain.pdb
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Longest String Chain\obj\Debug\net5.0\Longest String Chain.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Longest String Chain\obj\Debug\net5.0\Longest String Chain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Longest String Chain\obj\Debug\net5.0\Longest String Chain.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Longest String Chain\obj\Debug\net5.0\Longest String Chain.AssemblyInfo.cs
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Longest String Chain\obj\Debug\net5.0\Longest String Chain.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Longest String Chain\obj\Debug\net5.0\Longest String Chain.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Longest String Chain\obj\Debug\net5.0\refint\Longest String Chain.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Longest String Chain\obj\Debug\net5.0\Longest String Chain.pdb
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Longest String Chain\obj\Debug\net5.0\Longest String Chain.genruntimeconfig.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Longest String Chain\obj\Debug\net5.0\ref\Longest String Chain.dll

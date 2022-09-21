@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Cable Merchant\bin\Debug\net5.0\Cable Merchant.exe
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Cable Merchant\bin\Debug\net5.0\Cable Merchant.deps.json
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Cable Merchant\bin\Debug\net5.0\Cable Merchant.runtimeconfig.json
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Cable Merchant\bin\Debug\net5.0\Cable Merchant.runtimeconfig.dev.json
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Cable Merchant\bin\Debug\net5.0\Cable Merchant.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Cable Merchant\bin\Debug\net5.0\Cable Merchant.pdb
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Cable Merchant\obj\Debug\net5.0\Cable Merchant.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Cable Merchant\obj\Debug\net5.0\Cable Merchant.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Cable Merchant\obj\Debug\net5.0\Cable Merchant.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Cable Merchant\obj\Debug\net5.0\Cable Merchant.AssemblyInfo.cs
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Cable Merchant\obj\Debug\net5.0\Cable Merchant.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Cable Merchant\obj\Debug\net5.0\Cable Merchant.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Cable Merchant\obj\Debug\net5.0\refint\Cable Merchant.dll
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Cable Merchant\obj\Debug\net5.0\Cable Merchant.pdb
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Cable Merchant\obj\Debug\net5.0\Cable Merchant.genruntimeconfig.cache
+E:\Проект\Algorithms Advanced  with C#\Exercise Dynamic Programming Advanced\Cable Merchant\obj\Debug\net5.0\ref\Cable Merchant.dll
