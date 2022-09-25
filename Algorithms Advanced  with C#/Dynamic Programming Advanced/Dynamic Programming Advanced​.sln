@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rod Cutting​", "Rod Cutting​\Rod Cutting​.csproj", "{CD7E178D-89DA-4F7B-836A-B3E67F0B4B0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knapsack", "Knapsack\Knapsack.csproj", "{13684D1C-5F90-4840-98EE-91CA7186414E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Increasing Subsequence", "Longest Increasing Subsequence\Longest Increasing Subsequence.csproj", "{0AB2AF36-71EF-4099-928B-7B004D1866C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD7E178D-89DA-4F7B-836A-B3E67F0B4B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7E178D-89DA-4F7B-836A-B3E67F0B4B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7E178D-89DA-4F7B-836A-B3E67F0B4B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7E178D-89DA-4F7B-836A-B3E67F0B4B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13684D1C-5F90-4840-98EE-91CA7186414E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13684D1C-5F90-4840-98EE-91CA7186414E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13684D1C-5F90-4840-98EE-91CA7186414E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13684D1C-5F90-4840-98EE-91CA7186414E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB2AF36-71EF-4099-928B-7B004D1866C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB2AF36-71EF-4099-928B-7B004D1866C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB2AF36-71EF-4099-928B-7B004D1866C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB2AF36-71EF-4099-928B-7B004D1866C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAD687DB-7F15-4861-8211-3D21D4F535EA}
+	EndGlobalSection
+EndGlobal

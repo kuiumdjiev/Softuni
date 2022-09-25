@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Longest Increasing Subsequence\bin\Debug\net5.0\Longest Increasing Subsequence.exe
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Longest Increasing Subsequence\bin\Debug\net5.0\Longest Increasing Subsequence.deps.json
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Longest Increasing Subsequence\bin\Debug\net5.0\Longest Increasing Subsequence.runtimeconfig.json
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Longest Increasing Subsequence\bin\Debug\net5.0\Longest Increasing Subsequence.runtimeconfig.dev.json
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Longest Increasing Subsequence\bin\Debug\net5.0\Longest Increasing Subsequence.dll
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Longest Increasing Subsequence\bin\Debug\net5.0\Longest Increasing Subsequence.pdb
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Longest Increasing Subsequence\obj\Debug\net5.0\Longest Increasing Subsequence.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Longest Increasing Subsequence\obj\Debug\net5.0\Longest Increasing Subsequence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Longest Increasing Subsequence\obj\Debug\net5.0\Longest Increasing Subsequence.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Longest Increasing Subsequence\obj\Debug\net5.0\Longest Increasing Subsequence.AssemblyInfo.cs
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Longest Increasing Subsequence\obj\Debug\net5.0\Longest Increasing Subsequence.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Longest Increasing Subsequence\obj\Debug\net5.0\Longest Increasing Subsequence.dll
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Longest Increasing Subsequence\obj\Debug\net5.0\refint\Longest Increasing Subsequence.dll
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Longest Increasing Subsequence\obj\Debug\net5.0\Longest Increasing Subsequence.pdb
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Longest Increasing Subsequence\obj\Debug\net5.0\Longest Increasing Subsequence.genruntimeconfig.cache
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Longest Increasing Subsequence\obj\Debug\net5.0\ref\Longest Increasing Subsequence.dll

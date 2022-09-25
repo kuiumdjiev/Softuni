@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Rod Cutting​\obj\Debug\net5.0\Rod Cutting​.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Rod Cutting​\obj\Debug\net5.0\Rod Cutting​.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Rod Cutting​\obj\Debug\net5.0\Rod Cutting​.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Rod Cutting​\obj\Debug\net5.0\Rod Cutting​.AssemblyInfo.cs
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Rod Cutting​\obj\Debug\net5.0\Rod Cutting​.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Rod Cutting​\bin\Debug\net5.0\Rod Cutting​.exe
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Rod Cutting​\bin\Debug\net5.0\Rod Cutting​.deps.json
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Rod Cutting​\bin\Debug\net5.0\Rod Cutting​.runtimeconfig.json
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Rod Cutting​\bin\Debug\net5.0\Rod Cutting​.runtimeconfig.dev.json
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Rod Cutting​\bin\Debug\net5.0\Rod Cutting​.dll
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Rod Cutting​\bin\Debug\net5.0\Rod Cutting​.pdb
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Rod Cutting​\obj\Debug\net5.0\Rod Cutting​.dll
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Rod Cutting​\obj\Debug\net5.0\refint\Rod Cutting​.dll
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Rod Cutting​\obj\Debug\net5.0\Rod Cutting​.pdb
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Rod Cutting​\obj\Debug\net5.0\Rod Cutting​.genruntimeconfig.cache
+E:\Проект\Algorithms Advanced  with C#\Dynamic Programming Advanced​\Rod Cutting​\obj\Debug\net5.0\ref\Rod Cutting​.dll
