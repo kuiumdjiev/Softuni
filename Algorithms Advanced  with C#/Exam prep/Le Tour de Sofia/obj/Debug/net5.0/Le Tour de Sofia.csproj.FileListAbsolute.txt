@@ -1,0 +1,18 @@
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Le Tour de Sofia\bin\Debug\net5.0\Le Tour de Sofia.exe
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Le Tour de Sofia\bin\Debug\net5.0\Le Tour de Sofia.deps.json
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Le Tour de Sofia\bin\Debug\net5.0\Le Tour de Sofia.runtimeconfig.json
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Le Tour de Sofia\bin\Debug\net5.0\Le Tour de Sofia.runtimeconfig.dev.json
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Le Tour de Sofia\bin\Debug\net5.0\Le Tour de Sofia.dll
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Le Tour de Sofia\bin\Debug\net5.0\Le Tour de Sofia.pdb
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Le Tour de Sofia\bin\Debug\net5.0\Wintellect.PowerCollections.dll
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Le Tour de Sofia\obj\Debug\net5.0\Le Tour de Sofia.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Le Tour de Sofia\obj\Debug\net5.0\Le Tour de Sofia.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Le Tour de Sofia\obj\Debug\net5.0\Le Tour de Sofia.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Le Tour de Sofia\obj\Debug\net5.0\Le Tour de Sofia.AssemblyInfo.cs
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Le Tour de Sofia\obj\Debug\net5.0\Le Tour de Sofia.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Le Tour de Sofia\obj\Debug\net5.0\Le Tour de Sofia.csproj.CopyComplete
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Le Tour de Sofia\obj\Debug\net5.0\Le Tour de Sofia.dll
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Le Tour de Sofia\obj\Debug\net5.0\refint\Le Tour de Sofia.dll
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Le Tour de Sofia\obj\Debug\net5.0\Le Tour de Sofia.pdb
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Le Tour de Sofia\obj\Debug\net5.0\Le Tour de Sofia.genruntimeconfig.cache
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Le Tour de Sofia\obj\Debug\net5.0\ref\Le Tour de Sofia.dll

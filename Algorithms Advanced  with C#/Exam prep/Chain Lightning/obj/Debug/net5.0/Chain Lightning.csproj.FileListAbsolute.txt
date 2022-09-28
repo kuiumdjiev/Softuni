@@ -1,0 +1,36 @@
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\bin\Debug\net5.0\Chain Lightning.exe
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\bin\Debug\net5.0\Chain Lightning.deps.json
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\bin\Debug\net5.0\Chain Lightning.runtimeconfig.json
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\bin\Debug\net5.0\Chain Lightning.runtimeconfig.dev.json
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\bin\Debug\net5.0\Chain Lightning.dll
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\bin\Debug\net5.0\Chain Lightning.pdb
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\bin\Debug\net5.0\Wintellect.PowerCollections.dll
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\obj\Debug\net5.0\Chain Lightning.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\obj\Debug\net5.0\Chain Lightning.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\obj\Debug\net5.0\Chain Lightning.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\obj\Debug\net5.0\Chain Lightning.AssemblyInfo.cs
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\obj\Debug\net5.0\Chain Lightning.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\obj\Debug\net5.0\Chain Lightning.csproj.CopyComplete
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\obj\Debug\net5.0\Chain Lightning.dll
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\obj\Debug\net5.0\refint\Chain Lightning.dll
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\obj\Debug\net5.0\Chain Lightning.pdb
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\obj\Debug\net5.0\Chain Lightning.genruntimeconfig.cache
+E:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\obj\Debug\net5.0\ref\Chain Lightning.dll
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\bin\Debug\net5.0\Chain Lightning.exe
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\bin\Debug\net5.0\Chain Lightning.deps.json
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\bin\Debug\net5.0\Chain Lightning.runtimeconfig.json
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\bin\Debug\net5.0\Chain Lightning.runtimeconfig.dev.json
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\bin\Debug\net5.0\Chain Lightning.dll
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\bin\Debug\net5.0\Chain Lightning.pdb
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\bin\Debug\net5.0\Wintellect.PowerCollections.dll
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\obj\Debug\net5.0\Chain Lightning.csproj.AssemblyReference.cache
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\obj\Debug\net5.0\Chain Lightning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\obj\Debug\net5.0\Chain Lightning.AssemblyInfoInputs.cache
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\obj\Debug\net5.0\Chain Lightning.AssemblyInfo.cs
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\obj\Debug\net5.0\Chain Lightning.csproj.CoreCompileInputs.cache
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\obj\Debug\net5.0\Chain Lightning.csproj.CopyComplete
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\obj\Debug\net5.0\Chain Lightning.dll
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\obj\Debug\net5.0\refint\Chain Lightning.dll
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\obj\Debug\net5.0\Chain Lightning.pdb
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\obj\Debug\net5.0\Chain Lightning.genruntimeconfig.cache
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Chain Lightning\obj\Debug\net5.0\ref\Chain Lightning.dll

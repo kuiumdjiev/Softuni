@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Dora the Explorer/1.0.0": {
+        "runtime": {
+          "Dora the Explorer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dora the Explorer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jzs1CcOb8MJrYPSA65+UIeIBgvykIraEtLn+DeZJmPuSBhCakaSMtLP5nHcUbCZJdyAy8/Z9K7a5MP852bsA2g==",
+  "success": true,
+  "projectFilePath": "D:\\Проект\\Algorithms Advanced  with C#\\Exam prep\\Le Tour de Sofia\\Le Tour de Sofia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stefan\\.nuget\\packages\\softuni.wintellect.powercollections\\2.0.0\\softuni.wintellect.powercollections.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

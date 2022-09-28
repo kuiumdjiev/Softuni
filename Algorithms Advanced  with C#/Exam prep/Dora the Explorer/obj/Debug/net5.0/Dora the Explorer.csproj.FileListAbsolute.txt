@@ -1,0 +1,16 @@
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Dora the Explorer\bin\Debug\net5.0\Dora the Explorer.exe
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Dora the Explorer\bin\Debug\net5.0\Dora the Explorer.deps.json
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Dora the Explorer\bin\Debug\net5.0\Dora the Explorer.runtimeconfig.json
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Dora the Explorer\bin\Debug\net5.0\Dora the Explorer.runtimeconfig.dev.json
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Dora the Explorer\bin\Debug\net5.0\Dora the Explorer.dll
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Dora the Explorer\bin\Debug\net5.0\Dora the Explorer.pdb
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Dora the Explorer\obj\Debug\net5.0\Dora the Explorer.csproj.AssemblyReference.cache
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Dora the Explorer\obj\Debug\net5.0\Dora the Explorer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Dora the Explorer\obj\Debug\net5.0\Dora the Explorer.AssemblyInfoInputs.cache
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Dora the Explorer\obj\Debug\net5.0\Dora the Explorer.AssemblyInfo.cs
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Dora the Explorer\obj\Debug\net5.0\Dora the Explorer.csproj.CoreCompileInputs.cache
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Dora the Explorer\obj\Debug\net5.0\Dora the Explorer.dll
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Dora the Explorer\obj\Debug\net5.0\refint\Dora the Explorer.dll
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Dora the Explorer\obj\Debug\net5.0\Dora the Explorer.pdb
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Dora the Explorer\obj\Debug\net5.0\Dora the Explorer.genruntimeconfig.cache
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Dora the Explorer\obj\Debug\net5.0\ref\Dora the Explorer.dll

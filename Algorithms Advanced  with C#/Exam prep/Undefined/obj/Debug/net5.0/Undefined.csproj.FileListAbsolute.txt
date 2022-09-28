@@ -1,0 +1,16 @@
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Undefined\bin\Debug\net5.0\Undefined.exe
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Undefined\bin\Debug\net5.0\Undefined.deps.json
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Undefined\bin\Debug\net5.0\Undefined.runtimeconfig.json
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Undefined\bin\Debug\net5.0\Undefined.runtimeconfig.dev.json
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Undefined\bin\Debug\net5.0\Undefined.dll
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Undefined\bin\Debug\net5.0\Undefined.pdb
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Undefined\obj\Debug\net5.0\Undefined.csproj.AssemblyReference.cache
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Undefined\obj\Debug\net5.0\Undefined.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Undefined\obj\Debug\net5.0\Undefined.AssemblyInfoInputs.cache
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Undefined\obj\Debug\net5.0\Undefined.AssemblyInfo.cs
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Undefined\obj\Debug\net5.0\Undefined.csproj.CoreCompileInputs.cache
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Undefined\obj\Debug\net5.0\Undefined.dll
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Undefined\obj\Debug\net5.0\refint\Undefined.dll
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Undefined\obj\Debug\net5.0\Undefined.pdb
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Undefined\obj\Debug\net5.0\Undefined.genruntimeconfig.cache
+D:\Проект\Algorithms Advanced  with C#\Exam prep\Undefined\obj\Debug\net5.0\ref\Undefined.dll
