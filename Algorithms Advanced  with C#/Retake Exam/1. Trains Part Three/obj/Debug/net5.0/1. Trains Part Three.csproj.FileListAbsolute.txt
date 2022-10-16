@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\1. Trains Part Three\bin\Debug\net5.0\1. Trains Part Three.exe
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\1. Trains Part Three\bin\Debug\net5.0\1. Trains Part Three.deps.json
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\1. Trains Part Three\bin\Debug\net5.0\1. Trains Part Three.runtimeconfig.json
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\1. Trains Part Three\bin\Debug\net5.0\1. Trains Part Three.runtimeconfig.dev.json
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\1. Trains Part Three\bin\Debug\net5.0\1. Trains Part Three.dll
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\1. Trains Part Three\bin\Debug\net5.0\1. Trains Part Three.pdb
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\1. Trains Part Three\obj\Debug\net5.0\1. Trains Part Three.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\1. Trains Part Three\obj\Debug\net5.0\1. Trains Part Three.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\1. Trains Part Three\obj\Debug\net5.0\1. Trains Part Three.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\1. Trains Part Three\obj\Debug\net5.0\1. Trains Part Three.AssemblyInfo.cs
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\1. Trains Part Three\obj\Debug\net5.0\1. Trains Part Three.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\1. Trains Part Three\obj\Debug\net5.0\1. Trains Part Three.dll
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\1. Trains Part Three\obj\Debug\net5.0\refint\1. Trains Part Three.dll
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\1. Trains Part Three\obj\Debug\net5.0\1. Trains Part Three.pdb
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\1. Trains Part Three\obj\Debug\net5.0\1. Trains Part Three.genruntimeconfig.cache
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\1. Trains Part Three\obj\Debug\net5.0\ref\1. Trains Part Three.dll

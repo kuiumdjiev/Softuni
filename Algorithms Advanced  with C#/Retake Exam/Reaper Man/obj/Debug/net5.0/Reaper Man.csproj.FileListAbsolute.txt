@@ -1,0 +1,18 @@
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Reaper Man\bin\Debug\net5.0\Reaper Man.exe
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Reaper Man\bin\Debug\net5.0\Reaper Man.deps.json
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Reaper Man\bin\Debug\net5.0\Reaper Man.runtimeconfig.json
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Reaper Man\bin\Debug\net5.0\Reaper Man.runtimeconfig.dev.json
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Reaper Man\bin\Debug\net5.0\Reaper Man.dll
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Reaper Man\bin\Debug\net5.0\Reaper Man.pdb
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Reaper Man\obj\Debug\net5.0\Reaper Man.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Reaper Man\obj\Debug\net5.0\Reaper Man.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Reaper Man\obj\Debug\net5.0\Reaper Man.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Reaper Man\obj\Debug\net5.0\Reaper Man.AssemblyInfo.cs
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Reaper Man\obj\Debug\net5.0\Reaper Man.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Reaper Man\obj\Debug\net5.0\Reaper Man.dll
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Reaper Man\obj\Debug\net5.0\refint\Reaper Man.dll
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Reaper Man\obj\Debug\net5.0\Reaper Man.pdb
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Reaper Man\obj\Debug\net5.0\Reaper Man.genruntimeconfig.cache
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Reaper Man\obj\Debug\net5.0\ref\Reaper Man.dll
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Reaper Man\bin\Debug\net5.0\Wintellect.PowerCollections.dll
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Reaper Man\obj\Debug\net5.0\Reaper Man.csproj.CopyComplete

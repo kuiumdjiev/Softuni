@@ -1,0 +1,16 @@
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Medivac\obj\Debug\net5.0\Medivac.csproj.AssemblyReference.cache
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Medivac\obj\Debug\net5.0\Medivac.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Medivac\obj\Debug\net5.0\Medivac.AssemblyInfoInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Medivac\obj\Debug\net5.0\Medivac.AssemblyInfo.cs
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Medivac\obj\Debug\net5.0\Medivac.csproj.CoreCompileInputs.cache
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Medivac\bin\Debug\net5.0\Medivac.exe
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Medivac\bin\Debug\net5.0\Medivac.deps.json
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Medivac\bin\Debug\net5.0\Medivac.runtimeconfig.json
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Medivac\bin\Debug\net5.0\Medivac.runtimeconfig.dev.json
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Medivac\bin\Debug\net5.0\Medivac.dll
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Medivac\bin\Debug\net5.0\Medivac.pdb
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Medivac\obj\Debug\net5.0\Medivac.dll
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Medivac\obj\Debug\net5.0\refint\Medivac.dll
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Medivac\obj\Debug\net5.0\Medivac.pdb
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Medivac\obj\Debug\net5.0\Medivac.genruntimeconfig.cache
+E:\Проект\Algorithms Advanced  with C#\Retake Exam\Medivac\obj\Debug\net5.0\ref\Medivac.dll
